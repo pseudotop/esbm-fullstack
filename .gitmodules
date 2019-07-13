@@ -1,0 +1,6 @@
+[submodule "esbm-client"]
+	path = esbm-client
+	url = https://github.com/EnsembleMakers/esbm-client.git
+[submodule "esbm-server"]
+	path = esbm-server
+	url = https://github.com/EnsembleMakers/esbm-server.git
